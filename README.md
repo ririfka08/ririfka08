@@ -1,6 +1,7 @@
 ## Hi I'm Rifka 👋
 Hello! I am a third-year Informatics student with a strong passion for both data science and quality assurance. I thrive on leveraging data to uncover insights and ensure the highest quality in software and systems. Currently, I am expanding my skills through self-study and online courses, focusing on data science techniques and QA methodologies. I have a robust foundation in programming and a solid grasp of data analysis and quality assurance concepts. My technical skills include proficiency in SQL, Python, R, Selenium and Katalon Studio, along with experience in libraries and frameworks for data manipulation, visualization, statistical analysis, and software testing.
 
+## Github Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ririfka08&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ririfka08&layout=compact" height=180 />
